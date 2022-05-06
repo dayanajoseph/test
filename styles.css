@@ -4,6 +4,7 @@
     font-family: sans-serif;
 }
 
+
 .hero{
     position: relative;
     width: 100%;
@@ -80,6 +81,12 @@ span{
     position: absolute;
     bottom: 0;
     right: 100px;
+}
+
+
+.responsive{
+  width: 100%;
+  height: auto;
 }
 
 .images img{
